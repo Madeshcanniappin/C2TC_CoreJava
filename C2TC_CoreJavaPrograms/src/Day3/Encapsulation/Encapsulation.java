@@ -4,7 +4,7 @@ public class Encapsulation {
 public static void main(String[] args) {
 		
 		//object creation 
-		OopsConceptDemo obj = new OopsConceptDemo();
+		OopsconceptDemo obj = new OopsconceptDemo();
 		obj.setSerialNum(101);
 		obj.setName("Pooja");
 		obj.setAge(20);
