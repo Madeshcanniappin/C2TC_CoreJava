@@ -1,0 +1,8 @@
+Hello
+
+Welcome to Java Training
+
+C71
+
+Count=50
+Dept=CSE,IT,ECE,RA

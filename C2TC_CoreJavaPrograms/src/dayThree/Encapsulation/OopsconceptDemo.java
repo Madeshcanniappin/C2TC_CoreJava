@@ -1,4 +1,4 @@
-package Day3.Encapsulation;
+package dayThree.Encapsulation;
 
 public class OopsconceptDemo {
 	private int serialNum;

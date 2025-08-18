@@ -1,4 +1,4 @@
-package Day3.Encapsulation;
+package dayThree.Encapsulation;
 
 public class Encapsulation {
 public static void main(String[] args) {
