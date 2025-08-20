@@ -1,0 +1,18 @@
+package DayThree.BufferReader;
+ import java.io.*;
+
+public class FileReaderDemo {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+       FileReader fr= new FileReader("data.txt");
+       BufferedReader br=new BufferedReader(fr);
+       String content;
+       while((content= br.readLine())!=null)
+       {
+    	   System.out.println(content);
+ 
+       }
+	}
+
+}
